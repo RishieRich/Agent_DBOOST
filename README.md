@@ -5,3 +5,5 @@ This is an intial readme here
 
 Daily WorkBooster Agent:
 Responsible to take up daily useful activities!
+
+Next Steps To Be Planned
